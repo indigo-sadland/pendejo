@@ -17,7 +17,7 @@ python3 pendejo.py http://localhost:8080/pentaho -u admin -p password
 ```
 
 When Pendejo establishes a connection with Pentaho BA, it will prompt and wait for commands.
-The complete list of available commands can be seen by typing `help`.
+I've left only one command - `cmd`.
 
 Command | Reference
 --- | ---
